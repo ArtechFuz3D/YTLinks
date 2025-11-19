@@ -9,4 +9,4 @@ User-agent: Googlebot
 Disallow:
 
 # Sitemap location
-Sitemap:https://artechfuz3d.github.io/YoutubeLinks/sitemap.xml
+Sitemap:sitemap.xml
