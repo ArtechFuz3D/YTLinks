@@ -9,4 +9,4 @@ User-agent: Googlebot
 Disallow:
 
 # Sitemap location
-Sitemap:sitemap.xml
+Sitemap:public/sitemap.xml
